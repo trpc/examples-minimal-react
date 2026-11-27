@@ -21,8 +21,8 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.65.0",
-    "npm-run-all2": "catalog:",
-    "start-server-and-test": "catalog:",
+    "npm-run-all2": "^9.0.4",
+    "start-server-and-test": "^3.0.13",
     "wait-port": "^1.1.0"
   }
 }
